@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 My name is Olivier.  
-I am soon completing my Ph.D. in statistics at the University of Geneva, after coming back from a scholar visit at Columbia University (New York).  
-My main line of work consists in developing novel methodologies for flexible conditional risk forecasting, by bridging the gap between the fields of extreme value statistics and machine learning.
+I completed my Ph.D. in Statistics at the University of Geneva, including a stay at Columbia University (New York).  
+My main line of research consists in developing novel methodologies for flexible conditional risk forecasting, by bridging the gap between the fields of extreme value statistics and machine learning.
 Other related research projects of mine involve, for example, causal modelling of extreme values, climate and weather applications, and forecasting floods.  
 
 For more info, check out my [website](https://opasche.github.io/) or my [Google Scholar](https://scholar.google.com/citations?user=GRk09VQAAAAJ).  
