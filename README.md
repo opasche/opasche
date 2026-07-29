@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Olivier. I'm a Lecturer and postdoctoral researcher in Statistics.  
+My name is Olivier. I'm a Lecturer in Statistics at EPFL.  
 I completed my Ph.D. at the University of Geneva, including a stay at Columbia University (New York).  
 My main line of research consists in developing novel methodologies for flexible conditional risk forecasting, by bridging the gap between the fields of extreme value statistics and machine learning.
 Other related research projects of mine involve, for example, causal modelling of extreme values, climate and weather applications, and forecasting floods.  
